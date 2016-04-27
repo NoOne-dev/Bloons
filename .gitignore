@@ -1,7 +1,0 @@
-*.pyc
-.gitignore
-bin/*
-include/*
-lib/*
-*.app/*
-*.app
