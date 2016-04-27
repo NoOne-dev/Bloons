@@ -5,3 +5,4 @@ bin/*
 pip-selfcheck.json
 *.app/*
 *.app
+.DS_Store
